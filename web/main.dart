@@ -149,7 +149,7 @@ html.Element createLayer(num index) {
 void main() {
     List<List<YodleNumber>> tree = new List<List<YodleNumber>>();
     
-    var url = "/triangle.txt";
+    var url = "/data/triangle.txt";
     html.HttpRequest.getString(url).then((String result) {
       print("result");
       List<String> lines = result.split("\r\n");
