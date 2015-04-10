@@ -4217,7 +4217,7 @@ wK:[function(a){var z=$.aj
 if(z!=null)z.Gv()
 $.aj=P.rT(C.m8,new F.dm(a))},"$1","O",2,0,26],
 QL:[function(){var z=H.J([],[[P.W,F.M]])
-W.X("/triangle.txt",null,null).Z(new F.L(z))},"$0","Da",0,0,1],
+W.X("/data/triangle.txt",null,null).Z(new F.L(z))},"$0","Da",0,0,1],
 M:{
 "^":"a;Q,a,M:b>,c,d,e,f,r,x",
 A:function(a,b){return J.vU(this.b,C.jn.gM(b))},
